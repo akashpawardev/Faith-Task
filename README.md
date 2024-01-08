@@ -48,8 +48,8 @@ npm run build
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/akashpawar43/faith-task/blob/master/public/website%20(3).png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar44/faith-task/blob/master/public/website%20(3).png" alt="project-screenshot" >
 
-<img src="https://github.com/akashpawar43/faith-task/blob/master/public/website%20(2).png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar44/faith-task/blob/master/public/website%20(2).png" alt="project-screenshot" >
 
-<img src="https://github.com/akashpawar43/faith-task/blob/master/public/website%20(1).png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar44/faith-task/blob/master/public/website%20(1).png" alt="project-screenshot" >
